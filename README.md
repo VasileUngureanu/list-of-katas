@@ -18,6 +18,7 @@ There are hundreds and thousands of resources on the internet for this topic, bu
 * [Architectural Katas](http://nealford.com/katas/list.html)
 * [Architectural Katas 2](http://www.architecturalkatas.com/)
 * [Mikado Testbuilders Kata](https://murex.github.io/mikado-testbuilders-kata/)
+* [The birthday greetings kata](http://matteo.vaccari.name/blog/archives/154)
 * [Stock Portfolio Kata](https://github.com/AgileTechPraxis/outside-in-kata)
 * [Code Smells Kata](https://github.com/AgileTechPraxis/CodeSmells)
 * [A collection of katas for quick start exercises](https://github.com/AgileTechPraxis/katalog)
