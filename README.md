@@ -14,6 +14,7 @@ There are hundreds and thousands of resources on the internet for this topic, bu
 * [Coding Dojo](http://codingdojo.org/)
 * [CodeKata](http://codekata.com/)
 * [The Maître d' kata](https://blog.ploeh.dk/2020/01/27/the-maitre-d-kata/)
+* [On doing katas](https://blog.ploeh.dk/2020/01/13/on-doing-katas/)
 * [Recycling tests in TDD](http://claysnow.co.uk/recycling-tests-in-tdd/)
 * [Architectural Katas](http://nealford.com/katas/list.html)
 * [Architectural Katas 2](http://www.architecturalkatas.com/)
